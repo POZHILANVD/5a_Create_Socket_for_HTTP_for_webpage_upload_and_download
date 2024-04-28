@@ -56,7 +56,7 @@ if __name__ == "__main__":
     print("File downloaded successfully.")
 ```
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/POZHILANVD/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/144870498/adf1538e-f224-49cc-92ee-72a89751332e)
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
